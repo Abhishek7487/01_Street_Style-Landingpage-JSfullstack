@@ -8,7 +8,7 @@
 
 ![Abhishek](https://img.shields.io/badge/Abhsiehk%20Patil-BCA%202%20year-orange)
 
-## Project 1 --- Live-Link
+## Project 1 --- [Live-link](https://jsfullstack-project-1.netlify.app/)
 
 - Skills gained in this project
   - Positioning elements using css.✅
