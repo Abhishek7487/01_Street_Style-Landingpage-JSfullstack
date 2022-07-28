@@ -13,7 +13,7 @@
 - Skills gained in this project
   - Positioning elements using css.✅
   - Selecting elements uniquely.✅
-  - Learned z-index property in depth.✅
+  - Learned `z-index` property in depth.✅
   
 ## Time taken to complete this project:-
 ⏰- 5 & 1/2 hours
