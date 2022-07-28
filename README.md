@@ -10,7 +10,7 @@
 
 ## Project 1 --- Live-Link
 
-- Skills learned in this project
+- Skills gained in this project
   - Positioning elements using css.✅
   - Selecting elements uniquely.✅
   - Learned z-index property in depth.✅
